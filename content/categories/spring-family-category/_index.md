@@ -5,6 +5,6 @@ image: category/spring.png
 
 # Badge style
 style:
-    background: "#4a7c59"
-    color: "#ffffff"
+    background: "#eef5ef"
+    color: "#587a5f"
 ---

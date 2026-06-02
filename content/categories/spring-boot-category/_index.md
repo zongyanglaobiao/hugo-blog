@@ -5,6 +5,6 @@ image: category/springboot.png
 
 # Badge style
 style:
-    background: "#6a994e"
-    color: "#ffffff"
+    background: "#edf6ec"
+    color: "#4f7d43"
 ---

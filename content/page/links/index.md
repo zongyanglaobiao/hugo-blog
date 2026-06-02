@@ -265,6 +265,11 @@ comments: false
       <p class="tool-desc">📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程</p>
       <div class="tags"><span class="tag">Python</span><span class="tag">HTML</span><span class="tag">JavaScript</span></div>
     </a>
+    <a class="tool-card" href="https://github.com/datawhalechina/hello-agents" target="_blank">
+      <h3 class="tool-name">CodeGraph</h3>
+      <p class="tool-desc">预索引代码知识图谱，支持 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent——更少的令牌，更少的工具调用，100% 本地化</p>
+      <div class="tags"><span class="tag">AI</span><span class="tag">JavaScript</span></div>
+    </a>
   </div>
 </section>
 

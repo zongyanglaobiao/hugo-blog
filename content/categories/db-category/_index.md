@@ -5,6 +5,6 @@ image: category/db.png
 
 # Badge style
 style:
-    background: "#264653"
-    color: "#f4a261"
+    background: "#eef4f5"
+    color: "#355c6e"
 ---

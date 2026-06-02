@@ -5,6 +5,6 @@ image: category/bug.jpg
 
 # Badge style
 style:
-    background: "#2d2d2d"
-    color: "#fff"
+    background: "#fdeeee"
+    color: "#c24145"
 ---

@@ -5,6 +5,6 @@ image: category/frontend.jpg
 
 # Badge style
 style:
-    background: "#2a9d8f"
-    color: "#ffffff"
+    background: "#eaf7f5"
+    color: "#167c74"
 ---

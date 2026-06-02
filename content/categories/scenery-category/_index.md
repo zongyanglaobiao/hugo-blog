@@ -5,6 +5,6 @@ image: category/scenery.jpg
 
 # Badge style
 style:
-  background: "#90e0ef"  # 浅蓝色
-  color: "#03045e" 
+  background: "#eef7fb"
+  color: "#4c6f8f"
 ---

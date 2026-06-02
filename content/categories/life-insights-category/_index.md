@@ -5,6 +5,6 @@ image: category/生活感悟.jpg
 
 # Badge style
 style:
-    background: "#2a9d8f"
-    color: "#fff"
+    background: "#f1f4ec"
+    color: "#6b7f52"
 ---

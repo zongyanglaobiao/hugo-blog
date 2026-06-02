@@ -5,6 +5,6 @@ image: category/java.png
 
 # Badge style
 style:
-  background: "#0f3057"
-  color: "#e7d9a6"
+  background: "#eef3f8"
+  color: "#355c7d"
 ---

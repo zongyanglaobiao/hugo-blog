@@ -5,6 +5,6 @@ image: category/emotion.jpg
 
 # Badge style
 style:
-    background: "#d6eaff"
-    color: "#3c3c3c"
+    background: "#f7eef6"
+    color: "#8b5f7d"
 ---
