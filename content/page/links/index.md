@@ -270,6 +270,11 @@ comments: false
       <p class="tool-desc">预索引代码知识图谱，支持 Claude Code、Codex、Gemini、Cursor、OpenCode、AntiGravity、Kiro 和 Hermes Agent——更少的令牌，更少的工具调用，100% 本地化</p>
       <div class="tags"><span class="tag">AI</span><span class="tag">JavaScript</span></div>
     </a>
+    <a class="tool-card" href="https://github.com/safishamsi/graphify" target="_blank">
+      <h3 class="tool-name">Graphify</h3>
+      <p class="tool-desc">AI 编码助手技能（支持 Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何包含代码、SQL 模式、R 脚本、shell 脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图谱。应用代码+数据库模式+基础设施，尽在一个图中。</p>
+      <div class="tags"><span class="tag">AI</span><span class="tag">Python</span></div>
+    </a>
   </div>
 </section>
 
