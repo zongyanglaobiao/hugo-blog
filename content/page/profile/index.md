@@ -5,7 +5,7 @@ slug: "profile"
 menu:
     main:
         weight: 5
-        name: 我
+        name: About Me
         params: 
             icon: profile
 toc: false
