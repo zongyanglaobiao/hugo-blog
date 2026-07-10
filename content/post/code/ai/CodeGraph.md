@@ -13,7 +13,6 @@ tags:
 keywords:
   - AI
   - codegraph
-weight: 1
 id: 1ac13ad9-30ff-4e1d-aec4-951179735cbb
 # 是否可以添加评论
 comments: true

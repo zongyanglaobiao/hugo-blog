@@ -221,6 +221,11 @@ comments: false
       <p class="tool-desc">2026年便宜好用的翻墙机场推荐评测(科学上网长期更新)</p>
       <div class="tags"><span class="tag">VPN✈️</span></div>
     </a>
+    <a class="tool-card" href="https://github.com/sindresorhus/awesome" target="_blank">
+      <h3 class="tool-name">优质资源导航站</h3>
+      <p class="tool-desc">😎 各种有趣话题的精彩列表</p>
+      <div class="tags"><span class="tag">markdown</span></div>
+    </a>
   </div>
 </section>
 
@@ -274,6 +279,11 @@ comments: false
       <h3 class="tool-name">Graphify</h3>
       <p class="tool-desc">AI 编码助手技能（支持 Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等）。将任何包含代码、SQL 模式、R 脚本、shell 脚本、文档、论文、图像或视频的文件夹转换为可查询的知识图谱。应用代码+数据库模式+基础设施，尽在一个图中。</p>
       <div class="tags"><span class="tag">AI</span><span class="tag">Python</span></div>
+    </a>
+    <a class="tool-card" href="https://github.com/msitarzewski/agency-agents.git" target="_blank">
+      <h3 class="tool-name">Agency Agents</h3>
+      <p class="tool-desc">触手可及的完整人工智能代理机构——从前端开发高手到Reddit社区达人，从创意注入者到现实检验者。每位代理都是拥有独特个性、流程和可靠成果的专业人士。</p>
+      <div class="tags"><span class="tag">Shell</span><span class="tag">Python</span></div>
     </a>
   </div>
 </section>
