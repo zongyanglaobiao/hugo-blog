@@ -33,7 +33,13 @@ comments: true
 
 ![Snipaste_2026-07-09_16-57-25.png](img/vpn/Snipaste_2026-07-09_16-57-25.png)
 
-这里特别说明,虽然显示已连接但是通过 rustdesk 使用 tailscale 提供的 IP 去连接其他设备是失败的，从其他设备使用`tailscale ping 100.x.y.z`测试 iPhone 手机也是显示在线，单独开启 tailscale 客户端是可以正常连接上
+此时浏览器就可以访问 tailscale 局域网内其他设备的服务
+
+![Snipaste_2026-07-10_10-28-46.png](img/vpn/Snipaste_2026-07-10_10-28-46.png)
+
+### rustdesk 无法通过 Shadowrocket tailscale 使用
+
+虽然显示已连接但是通过 rustdesk 使用 tailscale 提供的 IP 去连接其他设备是失败的，从其他设备使用`tailscale ping 100.x.y.z`测试 iPhone 手机也是显示在线，单独开启 tailscale 客户端是可以正常连接上
 
 ![Snipaste_2026-07-09_17-05-15.png](img/vpn/Snipaste_2026-07-09_17-05-15.png)
 
