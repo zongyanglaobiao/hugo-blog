@@ -8,7 +8,7 @@ menu:
         name: About Me
         params: 
             icon: profile
-toc: false
+toc: true
 comments: false
 ---
 
@@ -20,47 +20,55 @@ comments: false
 
 ### 🛠 技能
 
-#### 编程语言
+#### Java 后端
 
-- Java
-- Python
-- JavaScript
-- SQL
+- Java 基础 / 面向对象 / 集合 / 线程池 / 反射 / Stream
+- HashMap 源码 / JVM 内存结构 / JVM 参数
+- 设计模式 / 缓存 / 异步 / 多线程 / 锁
 
-#### 开发框架
+#### Spring 生态
 
-- Spring家族
-- Django
-- React
-- NextJS
+- Spring Boot 3 / Spring MVC / Spring Security
+- Spring Cloud / Spring Cloud Alibaba
+- Nacos / Gateway / Feign
+- MyBatis-Plus / Sa-Token
+- Spring Boot 自动装配源码
 
-#### 运维
+#### 数据库与缓存
 
-- Jenkins / JPom
-- Docker
-- Linux
-- MySQL
-- MongoDB
-- PostgreSQL
+- MySQL / PostgreSQL / SQL Server
+- Redis
+- 事务 / 视图 / 触发器 / 锁 / 索引 / SQL 调优
+- Redis 数据结构 / 哨兵模式 / 分布式锁
 
-### 规划
+#### 中间件与协议
 
-#### 2024/08/14 - 2029/08/14
+- RocketMQ
+- Kafka / RabbitMQ
+- HTTP / WebSocket / SSE / SOAP
+- 串口通信
 
-**1️⃣**
+#### 业务组件
 
-- 提升技能
-- 学习英语
-- 阅读
-- 健身
+- Freemarker / LiteFlow / Camunda / EasyExcel
+- 模板引擎 / 规则引擎 / 工作流 / Excel 导入导出
 
-**2️⃣**
+#### 工程化与部署
 
-- 找副业
+- Git / Gitflow
+- Maven / Nvm / Npm / Pip / Uvx
+- Linux / Shell
+- Nginx / Docker / Jenkins / JPom
 
-#### 2029/08/14 - 2034/08/14
+#### 前端与脚本
 
-thinking...
+- React / Vite
+- Python / Django / Flask
+
+#### AI 辅助开发
+
+- OpenCode / Claude Code / Codex / Trae / Cursor
+- Skills / Agent / RAG / MCP / Spec Coding
 
 ## 其他爱好
 
@@ -77,5 +85,4 @@ thinking...
 <div>
     <img src="/blog/img/author/me.jpeg" style="width: 170px;height: 215px" alt="个人照片">
 </div>
-
 
