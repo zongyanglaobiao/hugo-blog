@@ -123,6 +123,11 @@ comments: false
       <p class="tool-desc">科技爱好者周刊，每周更新技术资讯</p>
       <div class="tags"><span class="tag">开源</span></div>
     </a>
+    <a class="tool-card" href="https://weekly-ruddy.vercel.app" target="_blank">
+      <h3 class="tool-name">科技爱好者周刊网页版</h3>
+      <p class="tool-desc">科技爱好者周刊，每周更新技术资讯</p>
+      <div class="tags"><span class="tag">开源</span></div>
+    </a>
     <a class="tool-card" href="https://hellogithub.com" target="_blank">
       <h3 class="tool-name">HelloGitHub</h3>
       <p class="tool-desc">分享 GitHub 上有趣、入门级的开源项目</p>
