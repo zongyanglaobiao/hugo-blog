@@ -118,13 +118,8 @@ comments: false
     <h2 class="category-title">资讯发现</h2>
   </div>
   <div class="cards-grid">
-    <a class="tool-card" href="https://github.com/ruanyf/weekly" target="_blank">
-      <h3 class="tool-name">科技爱好者周刊</h3>
-      <p class="tool-desc">科技爱好者周刊，每周更新技术资讯</p>
-      <div class="tags"><span class="tag">开源</span></div>
-    </a>
     <a class="tool-card" href="https://weekly-ruddy.vercel.app" target="_blank">
-      <h3 class="tool-name">科技爱好者周刊网页版</h3>
+      <h3 class="tool-name">阮一峰科技爱好者周刊</h3>
       <p class="tool-desc">科技爱好者周刊，每周更新技术资讯</p>
       <div class="tags"><span class="tag">开源</span></div>
     </a>
@@ -133,11 +128,6 @@ comments: false
       <p class="tool-desc">分享 GitHub 上有趣、入门级的开源项目</p>
       <div class="tags"><span class="tag">在线</span></div>
     </a>
-    <a class="tool-card" href="https://github.com/521xueweihan/HelloGitHub" target="_blank">
-      <h3 class="tool-name">HelloGitHub 仓库</h3>
-      <p class="tool-desc">GitHub 上有趣、入门级开源项目分享</p>
-      <div class="tags"><span class="tag">开源</span></div>
-    </a>
     <a class="tool-card" href="https://github.com/GitHubDaily/GitHubDaily" target="_blank">
       <h3 class="tool-name">GitHubDaily</h3>
       <p class="tool-desc">坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具</p>
@@ -145,7 +135,6 @@ comments: false
     </a>
   </div>
 </section>
-
 <section class="category-section">
   <div class="category-header">
     <span class="category-icon">🛠️</span>
@@ -185,6 +174,11 @@ comments: false
       <h3 class="tool-name">CS-Notes</h3>
       <p class="tool-desc">技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计</p>
       <div class="tags"><span class="tag">面试刷题</span></div>
+    </a>
+    <a class="tool-card" href="https://github.com/datawhalechina/hello-agents" target="_blank">
+      <h3 class="tool-name">Hello Agent</h3>
+      <p class="tool-desc">📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程</p>
+      <div class="tags"><span class="tag">Python</span><span class="tag">JavaScript</span></div>
     </a>
     <a class="tool-card" href="https://pdai.tech/md/resource/tools.html" target="_blank">
       <h3 class="tool-name">Java 全栈知识体系</h3>
@@ -314,6 +308,11 @@ comments: false
       <p class="tool-desc">在这里找到写 CSS 的灵感</p>
       <div class="tags"><span class="tag">CSS</span></div>
     </a>
+    <a class="tool-card" href="https://github.com/logto-io/logto" target="_blank">
+      <h3 class="tool-name">一个专为现代应用和 SaaS 产品设计的开源身份与访问管理 (IAM) 解决方案。</h3>
+      <p class="tool-desc">🧑‍🚀 基于 OIDC 和 OAuth 2.1 构建的 SaaS 和 AI 应用身份验证和授权基础架构，支持多租户、SSO 和 RBAC。</p>
+      <div class="tags"><span class="tag">PLpgSQL</span><span class="tag">TypeScript</span></div>
+    </a>
   </div>
 </section>
 
@@ -380,6 +379,11 @@ comments: false
       <h3 class="tool-name">MarkItDown</h3>
       <p class="tool-desc">将文件和办公文档转换为 Markdown 的工具</p>
       <div class="tags"><span class="tag">Python</span></div>
+    </a>
+    <a class="tool-card" href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
+      <h3 class="tool-name">Opendataloader-pdf</h3>
+      <p class="tool-desc">适用于人工智能数据的 PDF 解析器。自动优化 PDF 可访问性。开源。</p>
+      <div class="tags"><span class="tag">Java</span><span class="tag">Python</span><span class="tag">JavaScript</span></div>
     </a>
     <a class="tool-card" href="https://github.com/jianchang512/pyvideotrans" target="_blank">
       <h3 class="tool-name">视频翻译配音</h3>
