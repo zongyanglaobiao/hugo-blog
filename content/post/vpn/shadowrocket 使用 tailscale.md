@@ -7,8 +7,7 @@ date: 2026-07-09 16:38:58+0000
 # 是否生成目录
 toc: true
 categories:
-  - shadowrocket
-  - tailscale
+  - useful-software-category
 tags:
   - shadowrocket
   - tailscalekeywords

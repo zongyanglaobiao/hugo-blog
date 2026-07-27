@@ -161,6 +161,11 @@ comments: false
       <p class="tool-desc">在线加密解密工具，支持多种算法</p>
       <div class="tags"><span class="tag">加解密</span></div>
     </a>
+    <a class="tool-card" href="https://www.sojson.com/encrypt.html" target="_blank">
+      <h3 class="tool-name">witr</h3>
+      <p class="tool-desc">一条命令揭秘进程身世。这是一个用 Go 编写的命令行诊断工具，用于快速定位和分析正在运行的进程。它通过端口、服务名或 PID 映射进程信息，生成通俗易懂的进程因果链，直观展示进程的来源、启动方式和持续运行的原因，帮助运维与开发者排查和定位异常进程。</p>
+      <div class="tags"><span class="tag">Go</span></div>
+    </a>
   </div>
 </section>
 
