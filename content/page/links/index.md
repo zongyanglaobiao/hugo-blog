@@ -230,6 +230,16 @@ comments: false
       <p class="tool-desc">😎 各种有趣话题的精彩列表</p>
       <div class="tags"><span class="tag">markdown</span></div>
     </a>
+    <a class="tool-card" href="https://yoavsbg.github.io/css-flexbox-playground/" target="_blank">
+      <h3 class="tool-name">CSS练习</h3>
+      <p class="tool-desc">CSS 响应式布局练习</p>
+      <div class="tags"><span class="tag"> CSS</span></div>
+    </a>
+    <a class="tool-card" href="https://github.com/tt-a1i/archify" target="_blank">
+      <h3 class="tool-name">Agent 画图</h3>
+      <p class="tool-desc">Agent Skill用于创建美观、可验证的架构图、工作流程图、序列图、数据流图和生命周期图——包含动态效果和清晰导出的独立 HTML。</p>
+      <div class="tags"><span class="tag">HTML</span><span class="tag">JavaScript</span></div>
+    </a>
   </div>
 </section>
 
